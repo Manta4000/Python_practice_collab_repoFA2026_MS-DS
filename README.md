@@ -3,7 +3,7 @@ Collaborative workspace for practicing solving advanced textbook problems in Pyt
 
 9.8.2026
 Reference Materials
-The Python Workbook – 2015
+The Python Workbook (TPW) – 2015
 Data Structures & Algorithms in Python (DS&A) – 2019 (Canning, Broder, Lafore)
 Python for Beginners (PfB) – 2023 (Kaswan, Dhatterwal, Balamurugan)
 Data Structures and Algorithms in Python (DSAP) – 2013 (Goodrich, Tamassia, Goldwasser)
